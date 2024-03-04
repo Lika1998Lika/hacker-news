@@ -2,7 +2,8 @@
 
 A Next application that provides an interface to API Hacker News.
 
-### Link
+### Deploy
+https://hacker-news-beige-pi.vercel.app/
 
 ### How to launch
 ```
